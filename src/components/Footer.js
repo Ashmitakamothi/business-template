@@ -16,16 +16,16 @@ const Footer = () => {
               Empowering businesses with modern digital solutions. We turn your ideas into functional realities.
             </p>
             <div style={{ display: "flex", gap: "1rem" }}>
-              <a href="#" style={{ width: "40px", height: "40px", borderRadius: "50%", background: "rgba(255,255,255,0.05)", display: "flex", alignItems: "center", justifyContent: "center", transition: "var(--transition-fast)" }} className="social-icon">
+              <a href="/" style={{ width: "40px", height: "40px", borderRadius: "50%", background: "rgba(255,255,255,0.05)", display: "flex", alignItems: "center", justifyContent: "center", transition: "var(--transition-fast)" }} className="social-icon">
                 <Globe size={18} />
               </a>
-              <a href="#" style={{ width: "40px", height: "40px", borderRadius: "50%", background: "rgba(255,255,255,0.05)", display: "flex", alignItems: "center", justifyContent: "center", transition: "var(--transition-fast)" }} className="social-icon">
+              <a href="/" style={{ width: "40px", height: "40px", borderRadius: "50%", background: "rgba(255,255,255,0.05)", display: "flex", alignItems: "center", justifyContent: "center", transition: "var(--transition-fast)" }} className="social-icon">
                 <MessageSquare size={18} />
               </a>
-              <a href="#" style={{ width: "40px", height: "40px", borderRadius: "50%", background: "rgba(255,255,255,0.05)", display: "flex", alignItems: "center", justifyContent: "center", transition: "var(--transition-fast)" }} className="social-icon">
+              <a href="/" style={{ width: "40px", height: "40px", borderRadius: "50%", background: "rgba(255,255,255,0.05)", display: "flex", alignItems: "center", justifyContent: "center", transition: "var(--transition-fast)" }} className="social-icon">
                 <Code size={18} />
               </a>
-              <a href="#" style={{ width: "40px", height: "40px", borderRadius: "50%", background: "rgba(255,255,255,0.05)", display: "flex", alignItems: "center", justifyContent: "center", transition: "var(--transition-fast)" }} className="social-icon">
+              <a href="/" style={{ width: "40px", height: "40px", borderRadius: "50%", background: "rgba(255,255,255,0.05)", display: "flex", alignItems: "center", justifyContent: "center", transition: "var(--transition-fast)" }} className="social-icon">
                 <Hash size={18} />
               </a>
             </div>
@@ -40,7 +40,7 @@ const Footer = () => {
             <div className="footer-links">
               <a href="#about">About Us</a>
               <a href="#services">Careers</a>
-              <a href="#">News & Media</a>
+              <a href="/">News & Media</a>
               <a href="#contact">Contact</a>
             </div>
           </div>
@@ -48,10 +48,10 @@ const Footer = () => {
           <div className="footer-col">
             <h4>Services</h4>
             <div className="footer-links">
-              <a href="#">Web Development</a>
-              <a href="#">Mobile Apps</a>
-              <a href="#">UI/UX Design</a>
-              <a href="#">Cloud Hosting</a>
+              <a href="/">Web Development</a>
+              <a href="/">Mobile Apps</a>
+              <a href="/">UI/UX Design</a>
+              <a href="/">Cloud Hosting</a>
             </div>
           </div>
 

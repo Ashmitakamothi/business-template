@@ -23,7 +23,7 @@ const Navbar = () => {
       boxShadow: isScrolled ? "0 10px 30px rgba(0,0,0,0.5)" : "none",
     }}>
       <div className="container">
-        <a href="#" className="navbar-brand">
+        <a href="/" className="navbar-brand">
           <span className="brand-dot" /> Nexus
           <span style={{ color: "var(--accent-blue)" }}>Core</span>
         </a>
